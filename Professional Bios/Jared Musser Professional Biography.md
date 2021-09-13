@@ -2,6 +2,7 @@
 
 ## Contact Information
 musserjl@mail.uc.edu
+513-315-4637
 
 ## Co-op Work Experience
 #### Web Developer, Fortech LLC, Jan. 2019-May 2019, Aug. 2019-Dec. 2019, May 2020-Aug. 2020, Jan. 2021-Aug. 2021
