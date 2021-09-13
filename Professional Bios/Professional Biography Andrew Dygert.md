@@ -32,7 +32,7 @@ You can get to me by:
 * Web Development
 * Software Development
 * Machine Learning
-* Statistical usage, possibly with sports
+* Statistical usage, possibly with sports 
 
 
  
