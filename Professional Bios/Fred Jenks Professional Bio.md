@@ -24,6 +24,6 @@ You can get to me by:
 * Web Development
 * Game Development
 * Machine Learning
-* Preferably something cool 
+* Preferably something cool
 
  
