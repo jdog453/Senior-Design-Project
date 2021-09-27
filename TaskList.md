@@ -1,3 +1,5 @@
+# Task List
+
 1.  Research the most efficient machine learning model to implement facial recognition. - Austen
     
 2.  Investigate the existence of an available dataset of faces to train a machine learning model. - Austen
