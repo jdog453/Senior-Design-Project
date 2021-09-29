@@ -38,7 +38,7 @@
     
 19.  Document the software aspects. - Andrew
     
-20.  Document the hardware aspects - Fred (Electrical Engineer AKA Fred)
+20.  Document the hardware aspects - Fred
     
 21.  Design/Develop the web app. - Andrew/Fred
     
