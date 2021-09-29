@@ -36,7 +36,7 @@
     
 18.  Test and validate the facial recognition system. - All
     
-19.  Document the software aspects. - Andrew
+19.  Document the software aspects. - Andrew/Austen
     
 20.  Document the hardware aspects - Fred
     
