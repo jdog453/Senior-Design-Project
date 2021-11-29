@@ -84,7 +84,7 @@ The user uses a web app that turns on the camera and arms the device. The camera
 
 ## Level 2
 
-![Level 2 Diagram](./Design Diagrams/D2.drawio.png)
+![Level 2 Diagram](https://github.com/jdog453/Senior-Design-Project/blob/f298d9df883c9413ed4df6060233b7f32d26d994/Design%20Diagrams/D2.drawio.png)
 
 The web app will have authentication to make sure that only certain users can access the app and activate the turret. A machine learning model will be trained for facial recognition. The current assumption is that there will be a free, publicly available dataset of faces to use for training. If not, the collection of images of faces to train and test the model with will be more tedious to produce. At this stage of development, we are also unsure of what type of machine learning model will be used for this task.
 
