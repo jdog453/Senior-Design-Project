@@ -72,19 +72,19 @@ Our team proposes to construct this automatic nerf gun turret. This turret will 
 
 ## Level 0
 
-![Level 0 Diagram](Design Diagrams/D0.drawio.png)
+![Level 0 Diagram](./Design Diagrams/D0.drawio.png)
 
 The above image represents the lowest level design of our project. The user will activate the machine. If a face is detected, the firing angle is calculated and the nerf gun turret fires.
 
 ## Level 1
 
-![Level 1 Diagram](Design Diagrams/D1.drawio.png)
+![Level 1 Diagram](./Design Diagrams/D1.drawio.png)
 
 The user uses a web app that turns on the camera and arms the device. The camera then detects a face through machine learning training. If the person isn&#39;t directly in front of the camera, the angle is calculated and the nerf gun is rotated to the correct position to fire. If the person is identified as unsafe, they are shot by the nerf gun.
 
 ## Level 2
 
-![Level 2 Diagram](Design Diagrams/D2.drawio.png)
+![Level 2 Diagram](./Design Diagrams/D2.drawio.png)
 
 The web app will have authentication to make sure that only certain users can access the app and activate the turret. A machine learning model will be trained for facial recognition. The current assumption is that there will be a free, publicly available dataset of faces to use for training. If not, the collection of images of faces to train and test the model with will be more tedious to produce. At this stage of development, we are also unsure of what type of machine learning model will be used for this task.
 
