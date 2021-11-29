@@ -206,114 +206,61 @@ I expect that the nerf gun will be able to be fired with very good accuracy, esp
 ## Austen Brownfield
 
 The senior design project my group and I are currently expecting to research/build is a
-
 nerf gun turret that will fire upon individuals in specific circumstances. These circumstances
-
 include if the face of an individual is detected on a camera, or if a motion sensor is tripped. This
-
-group consists of only computer science students, so I believe an area we&#39;re all strong in is
-
+group consists of only computer science students, so I believe an area we’re all strong in is
 software development and programming. I believe this experience will allow us to successfully
-
 develop software that can perform some of the necessary tasks for this project (e.g. use machine
-
 learning to identify faces, control when the nerf gun fires, etc.). However, I believe my group and
-
 I lack experience with physical hardware and devices, so some aspects of this idea (pulling the
-
 trigger, creating/monitoring a motion sensor, etc.) may be difficult to implement.
-
-I&#39;ve personally taken specific courses at this university that I think will provide a good
-
-foundation for the experience/information needed to complete this project. I&#39;ve taken
-
+I’ve personally taken specific courses at this university that I think will provide a good
+foundation for the experience/information needed to complete this project. I’ve taken
 MATH1062 (Calculus II), MATH2076 (Linear Algebra), CS4033 (AI Principles and
-
 Applications), and CS5137 (Machine Learning). I believe, if my group were to implement some
-
-form of machine learning for facial recognition, the knowledge I&#39;ve gained from these courses
-
-will allow me to implement this. I&#39;ve also taken many programming courses such as
-
+form of machine learning for facial recognition, the knowledge I’ve gained from these courses
+will allow me to implement this. I’ve also taken many programming courses such as
 EECE3093C (Software Engineering), CS3003 (Programming Languages), CS2021 (Python
-
-Programming). I think these courses gave me the necessary experience I&#39;ll need to create and
-
-implement code for this project. I&#39;ve also picked up skills and experience from my coops.
-
+Programming). I think these courses gave me the necessary experience I’ll need to create and
+implement code for this project. I’ve also picked up skills and experience from my coops.
 I worked at the tech company London Computer Systems for four semesters. My position
-
 was that of a quality assurance software tester for one semester. During this time, I discovered
-
 and reported defects to my team, coordinated with software developers to verify code changes
-
 had addressed certain issues, and was responsible for creating and executing test cases. I was a
-
 software developer for the other three semesters of my coop. In this position, I reviewed software
-
 changes made by others to ensure program quality and designed, developed, and implemented
-
 code changes to software. I also gained experience working with a team of competent software
-
 developers. I believe my time spent on coop provided me with efficient software development
-
 skills and practices as well as good testing habits that will allow me and my team to competently
-
 work on and complete this project.
-
-I&#39;m excited to work on this project for several reasons. The first of which is that I feel
-
-like this is the best opportunity I&#39;ll have at university to create something that not only am I
-
+I’m excited to work on this project for several reasons. The first of which is that I feel
+like this is the best opportunity I’ll have at university to create something that not only am I
 proud of, but something my friends and family can be proud of too. This project could be a neat
-
 feather in my cap that tells others I learned something at school and made something awesome
-
 with it. Secondly, I think this project idea is difficult enough that my team and I can pick up new
-
 skills along the way. For example, like I said earlier, I feel the software aspect of this project
-
-won&#39;t be too difficult, but the hardware aspect (pulling the nerf gun trigger, creating/monitoring a
-
+won’t be too difficult, but the hardware aspect (pulling the nerf gun trigger, creating/monitoring a
 motion sensor, etc.) is something I do not know very well at all. However, I think researching
-
 this and coming up with our own solutions will be a great opportunity to learn about subjects that
-
-weren&#39;t present in our traditional CS curriculum. I think our preliminary approach to this project
-
+weren’t present in our traditional CS curriculum. I think our preliminary approach to this project
 will be deciding what aspects of this are absolutely necessary to include and which aspects
-
-aren&#39;t. For example, should we design and build a track that moves and adjusts the angle of the
-
+aren’t. For example, should we design and build a track that moves and adjusts the angle of the
 nerf gun depending on the position of whoever is spotted on camera? If so, how will that be done
-
-and can it be done in an efficient way that won&#39;t take months to complete? Otherwise, let&#39;s adjust
-
-the parameters of our project so we don&#39;t need to implement the track specifically and can
-
+and can it be done in an efficient way that won’t take months to complete? Otherwise, let’s adjust
+the parameters of our project so we don’t need to implement the track specifically and can
 instead focus on the bigger picture.
-
 At this point, the only expected result that I wish for this project is that the nerf gun will
-
-fire when someone has been detected via facial recognition or a motion sensor being tripped. I&#39;m
-
-not sure of the smaller, more specific results that I wish to see since my group and I haven&#39;t
-
-discussed them yet. I&#39;ll personally evaluate my contributions by objective metrics such as the
-
-total amount of time I spent working on this project and how many lines of code I&#39;ve written. I&#39;ll
-
+fire when someone has been detected via facial recognition or a motion sensor being tripped. I’m
+not sure of the smaller, more specific results that I wish to see since my group and I haven’t
+discussed them yet. I’ll personally evaluate my contributions by objective metrics such as the
+total amount of time I spent working on this project and how many lines of code I’ve written. I’ll
 use more subjective metrics such as how often I was able to successfully help group members
-
 complete their work, or how others feel and view our project as time progresses too. Besides the
-
-obvious deadline date, my group and I will know when we&#39;re done once the project has
-
+obvious deadline date, my group and I will know when we’re done once the project has
 successfully completed the goals we set for it. If our project can do that, and it was able to do
-
 that with little sacrifice to what we originally wanted to do, then I would feel that I had done a
-
 good job creating this project
+
 
 ## Fred Jenks
 
