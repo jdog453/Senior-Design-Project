@@ -155,7 +155,8 @@ Once a face is detected, the location of the person in comparison to the camera 
 
 ## Effort Matrix
 
-| Task | Andrew | Austen | Fred | Jared |
+| Task | Andrew | Austen | Fred | Jared | Total |
+| --- | --- | --- | --- | --- | --- |
 | 1 | 15% | 75% | 5% | 5% | 100% |
 | 2 | 15% | 75% | 5% | 5% | 100% |
 | 3 | 15% | 75% | 5% | 5% | 100% |
