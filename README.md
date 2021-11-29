@@ -428,7 +428,7 @@ You can get to me by:
 
 $100 - Test Guns and Darts
 
-$135 - Raspberry Pi and other hardware
+$162.57 - Raspberry Pi, PiCam, Servo, hardware to get things working together
 
 # Appendix
 
