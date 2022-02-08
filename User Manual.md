@@ -5,27 +5,27 @@ The device has not been completely designed yet. However, we have an idea of how
 
   
 ## Table of Contents
-- Abstract directions:  1
+- Abstract directions
 
-	- Set up the device.  1
+	- Set up the device
 
-	- Turn on the raspberry pi.  2
+	- Turn on the raspberry pi
 
-	- Train the facial recognition model to recognize specific faces.  2
+	- Train the facial recognition model to recognize specific faces
 
-	- Register/Login to the webapp.  3
+	- Register/Login to the webapp
 
 - FAQs  3
 
-	- Why is the nerf gun turret not turning on?  3
+	- Why is the nerf gun turret not turning on?
 
-	- Why is the nerf gun turret on but not firing?  3
+	- Why is the nerf gun turret on but not firing?
 
-	- Why is the nerf gun turret firing at someone that is marked as safe?  4
+	- Why is the nerf gun turret firing at someone that is marked as safe?
 
-	- Why does the nerf gun turret not fire at people who are not marked as safe?  4
+	- Why does the nerf gun turret not fire at people who are not marked as safe?
 
-	- Why is the nerf gun turret not aiming? Alternatively, when the nerf gun turret aims, why does it aim slowly?  4
+	- Why is the nerf gun turret not aiming? Alternatively, when the nerf gun turret aims, why does it aim slowly?
 
   
   
