@@ -20,8 +20,9 @@ class AlignFaces:
         # A list of rectangle elements are returned. Each rectangle represents the coordinates of a bounding box around
         # a face that was detected in the image.
         rects = self.detector(gray, 2)
-        # We assume that only one face per image. Should more be found, a message is printed.
-        if len(rects) > 1:
-            print("Multiple faces found in image: {}!".format(imagePath))
-        # The first bounding box is aligned face is returned.
-        return fa.align(image, gray, rects[0])            
+        # We verify that at least one face is detected within the image.
+        if len(rects) > 0:
+            # The first bounding box is aligned and the face is returned.
+            return fa.align(image, gray, rects[0])
+        else:
+            return None
