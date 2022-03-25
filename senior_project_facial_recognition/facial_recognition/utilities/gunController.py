@@ -19,7 +19,7 @@ class gunController:
         self.iter8.start()
         
         self.is_firing = False
-        self.angle = 128
+        self.angle = 80
         self.pin10.write(self.angle)
 
     def move_servo(self, angle):
@@ -36,13 +36,13 @@ class gunController:
             self.is_firing = False
 
     def move_left(self):
-        if(self.angle > 0):
+        if(self.angle > 60):
             self.angle -= 1
             self.pin10.write(self.angle)
             time.sleep(0.05)
 
     def move_right(self):
-        if(self.angle < 256):
+        if(self.angle < 95):
             self.angle += 1
             self.pin10.write(self.angle)
             time.sleep(0.05)

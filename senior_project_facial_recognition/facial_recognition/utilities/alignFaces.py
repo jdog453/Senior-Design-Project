@@ -12,7 +12,7 @@ class AlignFaces:
         self.detector = dlib.get_frontal_face_detector()
         self.predictor = dlib.shape_predictor("../../facial_detection/models/shape_predictor_68_face_landmarks.dat")
 
-    def align_faces(self, image, imagePath):
+    def align_faces(self, image, imagePath = None):
         fa = FaceAligner(self.predictor, desiredFaceWidth=256)
         # load the input image, resize it, and convert it to grayscale
         image = imutils.resize(image, width=800)
