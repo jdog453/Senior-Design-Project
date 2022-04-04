@@ -46,4 +46,31 @@ class gunController:
             self.angle += 1
             self.pin10.write(self.angle)
             time.sleep(0.05)
-            
+
+# The below function is responsible for the firing of the nerf gun turret
+def turret_controller(ROI_list, center):
+    # If there is at least face in the ROI_list...
+    if len(ROI_list):
+        # The list is sorted based on the ROI's distance from the center of the frame.
+        ROI_list.sort()
+        
+        # The ROI closest to center is the first item of the list. This is known as the current ROI
+        curr_ROI_obj = ROI_list[0]
+        dist_from_center = curr_ROI_obj.dist_from_center
+        
+        # If the current ROI is 0, then the face is aligned with the center of the frame 
+        if not dist_from_center:
+            print("Pull trigger")
+            # gc.pull_trigger()
+        else:
+            print("Release trigger")
+            # gc.release_trigger()
+            if center < curr_ROI_obj.startX:
+                print("Move left")
+                # gc.move_left()
+            else:
+                print("Move right")
+                # gc.move_right()
+    else:
+        print("Release trigger")
+        # gc.release_trigger()
