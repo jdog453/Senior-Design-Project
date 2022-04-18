@@ -2,11 +2,11 @@
 
 **[Abstract](#Abstract) 2**
 
-**[Project Description](#Project Description) 2**
+**[Project Description](#project-description) 2**
 
-**[User Stories](#_fg1l6lfwukro) 3**
+**[User Stories](#user-stories) 3**
 
-**[Design Diagrams](#_a2ire4azauss) 3**
+**[Design Diagrams](#design-diagrams) 3**
 
 [Level 0](#_el4vef2xp2fy) 3
 
