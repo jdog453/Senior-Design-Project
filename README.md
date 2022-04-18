@@ -26,23 +26,23 @@
 
 **[Self-Assessment Essays](#self-assessment-essays)**
 
-Andrew Dygert
+[Andrew Dygert - Fall](#andrew-dygert-fall)
 
-Austen Brownfield
+[Austen Brownfield - Fall](#austen-brownfield-fall)
 
-Fred Jenks
+[Fred Jenks](#fred-jenks-fall)
 
-Jared Musser
+[Jared Musser](#jared-musser-fall)
 
 **[Professional Biographies](#professional-biographies)**
 
-Andrew Dygert
+[Andrew Dygert](#andrew-dygert)
 
-Austen Brownfield
+[Austen Brownfield](#austen-brownfield)
 
-Fred Jenks
+[Fred Jenks](#fred-jenks)
 
-Jared Musser
+[Jared Musser](#jared-musser)
 
 **[Poster](#poster)**
 
@@ -197,7 +197,7 @@ Once a face is detected, the location of the person in comparison to the camera 
 
 # Self-Assessment Essays
 
-## Andrew Dygert
+## Andrew Dygert - Fall
 
 The project that I will be working on is a nerf gun turret that will fire upon an individual in the appropriate circumstances. We plan to use a multitude of technologies to identify when the individual should be fired upon. These technologies include face recognition technology or some alternative to determine who is not a &quot;threat&quot;. There will also need to be a raspberry pi or some alternate so that we can program the machine. There is also the need for a mechanism that first the gun that will need to be fired. Lastly, there will need to be some override mechanic in case of a malfunction.
 
@@ -209,7 +209,7 @@ I am excited about this project for several reasons. Firstly, this is the first 
 
 I expect that the nerf gun will be able to be fired with very good accuracy, especially from the range close enough to where the facial scan will have to take place. I believe that we can get the facial scan to work will. I am also worried about how precise robotics need to be, and if we can build them accordingly. I will evaluate my contributions, not only by the time I spend but by how much of that time I am getting quality work done and advancing our group towards our goal. We will know we are done when all parts are working, the firing of the gun is accurate, and the facial detection is also accurate. We will know whether we have done a good job is by how accurate the gun is, and how quick the gun is to fire.
 
-## Austen Brownfield
+## Austen Brownfield - Fall
 
 The senior design project my group and I are currently expecting to research/build is a
 nerf gun turret that will fire upon individuals in specific circumstances. These circumstances
