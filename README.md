@@ -28,13 +28,21 @@
 
 **[Self-Assessment Essays](#self-assessment-essays)**
 
-[Andrew Dygert - Fall](#andrew-dygert-fall)
+[Andrew Dygert - Fall](#andrew-dygert---fall)
 
-[Austen Brownfield - Fall](#austen-brownfield-fall)
+[Andrew Dygert - Spring](#andrew-dygert---spring)
 
-[Fred Jenks](#fred-jenks-fall)
+[Austen Brownfield - Fall](#austen-brownfield---fall)
 
-[Jared Musser](#jared-musser-fall)
+[Austen Brownfield - Spring](#austen-brownfield---spring)
+
+[Fred Jenks - Fall](#fred-jenks---fall)
+
+[Fred Jenks - Spring](#fred-jenks---spring)
+
+[Jared Musser - Fall](#jared-musser---fall)
+
+[Jared Musser - Spring](#jared-musser---spring)
 
 **[Professional Biographies](#professional-biographies)**
 
@@ -424,6 +432,9 @@ I am excited about this project for several reasons. Firstly, this is the first 
 
 I expect that the nerf gun will be able to be fired with very good accuracy, especially from the range close enough to where the facial scan will have to take place. I believe that we can get the facial scan to work will. I am also worried about how precise robotics need to be, and if we can build them accordingly. I will evaluate my contributions, not only by the time I spend but by how much of that time I am getting quality work done and advancing our group towards our goal. We will know we are done when all parts are working, the firing of the gun is accurate, and the facial detection is also accurate. We will know whether we have done a good job is by how accurate the gun is, and how quick the gun is to fire.
 
+## Andrew Dygert - Spring
+
+
 ## Austen Brownfield - Fall
 
 The senior design project my group and I are currently expecting to research/build is a
@@ -482,8 +493,10 @@ successfully completed the goals we set for it. If our project can do that, and 
 that with little sacrifice to what we originally wanted to do, then I would feel that I had done a
 good job creating this project
 
+## Austen Brownfield - Spring
 
-## Fred Jenks
+
+## Fred Jenks - Fall
 
 Our planned project involves using facial recognition and motion tracking to create a sort of automated defense system. We plan to write a program that takes one or more camera feeds as input. When the program &quot;spots&quot; a face that is not authorized, it will fire at that face. As for the physical aspect, we plan to use a nerf gun and a set of motors to aim and fire it. The facial recognition will likely utilize machine learning to train the program to tell what is a face and what isn&#39;t. If the facial recognition fails, we plan on using motion sensors as a backup. We want to combine these inputs, feed them to a program, and have it accurately determine if there is an unauthorized person approaching.
 
@@ -495,7 +508,14 @@ Our preliminary approach will be to build a sort of stand for the gun to sit on,
 
 I am excited for this project for a few reasons. First and foremost, machine learning is a major thing right now, so doing as much work with it as possible is important in my opinion. Facial recognition is also big with a lot of companies right now, so learning how to do it would be helpful for job searches, on top of it being a very cool innovation. On top of the real world applications of our project, it sounded like a lot of fun to make. I expect to come out of this project with a much better knowledge of how machine learning and facial recognition work, as well as a strong understanding of how to set them up to live camera feeds and determine who it&#39;s seeing in real time. I also am excited to learn about all of the physical aspects, such as hooking up the motion sensors, building the stand, and setting up the motors to aim if time permits. This project sounded great to me when it was proposed by one of my groupmates, and I can&#39;t wait to get started.
 
-## Jared Musser
+## Fred Jenks - Spring
+My individual contribution to the project was originally meant to be setting up the internal wiring of the gun to take the signal from the Arduino to fire. However, due to the modification safeguards implemented by the manufacturer made it difficult to mess with the wires, we decided to scrap that idea because we didn’t want to risk breaking the gun. My other semi-major contribution, the webapp that was to be linked to the turret, was also dropped due to time issues. After these decisions, I took on more of a “everyman” role assisting where I could, such as writing the script to split videos into images for model training or designing the poster for the expo. 
+
+I think I did build on the skills identified last fall, as we did a lot of python programming and learned a lot about the libraries we used. I think I rebuilt my competency with Arduino, as it’s something I’ve worked with previously but not much lately. I also learned how to use Jupyter notebooks, and built on my previous Python experience. My major successes were getting the poster made and looking nice and writing the video split script. My major obstacles were the wiring issues and the amount of time spent disassembling the gun and learning about its inner mechanics.
+
+
+
+## Jared Musser - Fall
 
 Our proposed project is to build a nerf turret that utilizes facial recognition software that we develop. This system will &quot;spot&quot; a face that it doesn&#39;t recognize and will then fire at the unsuspecting victim. We all are computer science students so we all have sufficient programming knowledge and experience to write the software. I think we will learn applicable skills such as machine learning for facial recognition and different things related to pulling the trigger and controlling when the trigger gets pulled. We all may have a bit of a lack in the hardware department since we are all computer science, however I have used Raspberry Pis and Arduinos in a previous class as well as a club I was in that developed a high altitude balloon payload and mission and used both an Arduino and a Raspberry Pi for the payload. But I may have some knowledge on how to use these small PCB&#39;s to manage the physical system.
 
@@ -506,6 +526,9 @@ During my co-op I learned some skills that I think will come in handy during thi
 I am excited about this project for a couple reasons. One of these reasons is that I am genuinely passionate about security. Not necessarily safety, but like security for our nation, my home, and my family. I think this project will give me just a small taste into developing security systems and solutions to potential safety and security issues. I plan on making my own things relating to this, but more complex and for various things. Another reason I am excited to work on this project is that it is going to be the thing I think I will remember the most from my classes and accomplishments while in college. This project can and will be something that I can be proud of, my teammates can be proud of, and our families can be proud of. I think these projects should have aspects of these things and should be fun and interesting for everyone involved as well. This will definitely be fun to build and test out and mess around with. The preliminary approach we have for this project is to determine everything we will need and won&#39;t need and what could potentially be cut from a final design to minimize cost and still make a good product.
 
 My expectations for this project are that we are going to be able to detect an unknown face and fire the nerf gun. Specifics for each person that I hope to see are currently unknown as nothing in this regard has been discussed. I think I will be evaluating myself and contributions based on how much code I&#39;ve written, how much time I spent on the project, and how much of the physical turret is built and eventually functional. There may be things that I do in a subjective manner such as if I was able to help the rest of the group on their part of the code or in the case of the other turret builder how much we help each other in building it I guess. I may also evaluate how the rest of my group feels about their work and views the project and time and the project progress. I think using a date to say when something is done isn&#39;t a good way to say something is done. I think to say it is done means different things. It could be code without bugs, it could be when initial requirements are met, it could be a whole host of things. However, I think for us to say our project is done probably falls in line with the initial requirements being met. Once these requirements (or goals) are met and it is with as little as possible sacrifice from the original goal and is successfully working, we can say we did a good job and our project is complete.
+
+## Jared Musser - Spring
+
 
 # Professional Biographies
 
