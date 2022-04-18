@@ -26,27 +26,27 @@
 
 **[Self-Assessment Essays](#self-assessment-essays) 9**
 
-[Andrew Dygert](#andrew-dygert) 9
+[Andrew Dygert] 9
 
-[Austen Brownfield](#austen-brownfield) 10
+[Austen Brownfield] 10
 
-[Fred Jenks](#fred-jenks) 11
+[Fred Jenks] 11
 
-[Jared Musser](#jared-musser) 13
+[Jared Musser] 13
 
 **[Professional Biographies](#professional-biographies) 14**
 
-[Andrew Dygert](#andrew-dygert2) 14
+[Andrew Dygert] 14
 
-[Austen Brownfield](#austen-brownfield) 15
+[Austen Brownfield] 15
 
-[Fred Jenks](#_82sqbtqr0ic3) 16
+[Fred Jenks] 16
 
-[Jared Musser](#_rt2wa1ihpc1w) 17
+[Jared Musser] 17
 
-**[Budget](#_r7nckih3qy4t) 18**
+**[Budget](#budget) 18**
 
-**[Appendix](#_u9n9ofl8dev4) 18**
+**[Appendix](#appendix) 18**
 
 # Abstract
 
