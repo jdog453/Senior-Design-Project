@@ -60,6 +60,10 @@ If the nerf gun were to fire at trespassers via facial detection, a machine lear
 
 Our team proposes to construct this automatic nerf gun turret. This turret will fire upon individuals who trespass into the room it&#39;s set up in. The different means by which the turret could fire (facial recognition or motion detection) will be researched to determine the best solution. Our team is composed of individuals studying computer science, so we&#39;re all familiar and proficient with the topic of programming and software development. The development of the physical aspect of this project, such as a track, will require research to identify unique solutions
 
+# UI Specifications
+
+There is only a video stream when the progam is running, so there is no User Interface 
+
 # User Stories
 
 - As a homeowner, I want this automated nerf gun turret to fire when trespassers enter a protected room, so that the intruder will retreat and that my items will be safe.
