@@ -66,6 +66,58 @@ Our team proposes to construct this automatic nerf gun turret. This turret will 
 
 There is only a video stream when the progam is running, so there is no User Interface 
 
+# Test plan and results
+
+Test Case Descriptions
+
+FD1.1  Facial Detection Test 1
+FD1.2  The purpose of this test is to ensure that the facial detection program detects when a face
+	is on the camera.
+FD1.3	We will test this by having individuals with visible faces appear on the camera at various 
+	distances and positions from the camera. We will know if a face is detected by observing 
+	the output of the program – if a square is drawn around a face, then the face has been
+	detected.
+
+FD2.1  Facial Detection Test 2
+FD2.2  The purpose of this test is to ensure that the facial detection program detects a face when
+	the face is of a darker complexion
+FD2.3	We will test this by having individuals with visible faces of a darker complexion appear
+on the camera at various distances and positions from the camera. We will know if a face
+is detected by observing the output of the program – if a square is drawn around a face,
+then the face has been	detected.
+
+FR1.1  Facial Recognition Test 1
+FR1.2  The purpose of this test is to ensure that the facial recognition program recognizes any 
+	faces that were added as “safe” faces.
+FR1.3	We will test this by having individuals with visible faces who are on the “safe” face list
+appear on the camera at various distances and positions from the camera. We will know if
+a face is recognized by observing the output of the program – if a square is drawn around
+a face and the face has been correctly labeled with the name of who that face belongs to,
+then the face has been correctly recognized.
+
+T1.1  	Turret Test 1
+T1.2 	The purpose of the test is to make sure the turret can hit a target to the far left of the screen
+T1.3	We will have a target enter at the far left on the screen, and see if the turret is able to rotate properly in order to hit the target
+
+T2.1  	Turret Test 2
+T2.2 	The purpose of the test is to make sure the turret can hit a target to the far right of the screen
+T2.3	We will have a target enter at the far right on the screen, and see if the turret is able to rotate properly in order to hit the target
+
+T3.1  	Turret Test 3
+T3.2 	The purpose of the test is to make sure the turret can fire in an adequate time
+T3.3	We will have a target appear on the screen, and measure the time it takes to fire from the time the person enters the screen
+
+| Test Case | Result |
+| --- | --- |
+| FD1 | Passed |
+| FD2 | Passed |
+| FR1 | Passed |
+| T1 | Passed |
+| T2 | Passed |
+| T3 | Passed |
+
+additionally, there were test cases that were removed due to the functionality being unable to be completed because of time constraints
+
 # User Stories
 
 - As a homeowner, I want this automated nerf gun turret to fire when trespassers enter a protected room, so that the intruder will retreat and that my items will be safe.
