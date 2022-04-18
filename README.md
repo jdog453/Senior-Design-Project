@@ -26,23 +26,23 @@
 
 **[Self-Assessment Essays](#self-assessment-essays) 9**
 
-[Andrew Dygert] 9
+Andrew Dygert 9
 
-[Austen Brownfield] 10
+Austen Brownfield 10
 
-[Fred Jenks] 11
+Fred Jenks 11
 
-[Jared Musser] 13
+Jared Musser 13
 
 **[Professional Biographies](#professional-biographies) 14**
 
-[Andrew Dygert] 14
+Andrew Dygert 14
 
-[Austen Brownfield] 15
+Austen Brownfield 15
 
-[Fred Jenks] 16
+Fred Jenks 16
 
-[Jared Musser] 17
+Jared Musser 17
 
 **[Budget](#budget) 18**
 
