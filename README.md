@@ -28,19 +28,19 @@
 
 [Andrew Dygert - Fall](#andrew-dygert---fall)
 
-[Andrew Dygert - Fall](#andrew-dygert---spring)
+[Andrew Dygert - Spring](#andrew-dygert---spring)
 
 [Austen Brownfield - Fall](#austen-brownfield---fall)
 
-[Austen Brownfield - Fall](#austen-brownfield---spring)
+[Austen Brownfield - Spring](#austen-brownfield---spring)
 
 [Fred Jenks - Fall](#fred-jenks---fall)
 
-[Fred Jenks - Fall](#fred-jenks---spring)
+[Fred Jenks - Spring](#fred-jenks---spring)
 
 [Jared Musser - Fall](#jared-musser---fall)
 
-[Jared Musser - Fall](#jared-musser---spring)
+[Jared Musser - Spring](#jared-musser---spring)
 
 **[Professional Biographies](#professional-biographies)**
 
@@ -294,6 +294,8 @@ Our preliminary approach will be to build a sort of stand for the gun to sit on,
 I am excited for this project for a few reasons. First and foremost, machine learning is a major thing right now, so doing as much work with it as possible is important in my opinion. Facial recognition is also big with a lot of companies right now, so learning how to do it would be helpful for job searches, on top of it being a very cool innovation. On top of the real world applications of our project, it sounded like a lot of fun to make. I expect to come out of this project with a much better knowledge of how machine learning and facial recognition work, as well as a strong understanding of how to set them up to live camera feeds and determine who it&#39;s seeing in real time. I also am excited to learn about all of the physical aspects, such as hooking up the motion sensors, building the stand, and setting up the motors to aim if time permits. This project sounded great to me when it was proposed by one of my groupmates, and I can&#39;t wait to get started.
 
 ## Fred Jenks - Spring
+My individual contribution to the project was originally meant to be setting up the internal wiring of the gun to take the signal from the Arduino to fire. However, due to the modification safeguards implemented by the manufacturer made it difficult to mess with the wires, we decided to scrap that idea because we didn’t want to risk breaking the gun. After this decision, I took on more of a “everyman” role assisting where I could, such as writing the script to split videos into images for model training or designing the poster for the expo. 
+I think I did build on the skills identified last fall, as we did a lot of python programming and learned a lot about the libraries we used. I think I rebuilt my competency with Arduino, as it’s something I’ve worked with previously but not much lately. I also learned how to use Jupyter notebooks, and built on my previous Python experience.
 
 
 ## Jared Musser - Fall
