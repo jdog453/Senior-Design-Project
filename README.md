@@ -131,14 +131,14 @@ additionally, there were test cases that were removed due to the functionality b
 # User Manual
 
 Directions:
- -Set up the device.
-  -Place the stand in an area with a large amount of space in front of the device.
-  - Ensure that there is a wall outlet near where the device is placed. This will be necessary for the 		     devices to be powered.
-  - The front of the device is the side whose nerf gun turret barrel is facing.
-		- Make sure that the nerf gun turret is loaded with nerf gun turret ammunition.
-		- Make sure that the nerf gun turret is powered on. I.e., ensure that the device has batteries.
--Download the source code
-	-The code is available on github at the following link: https://github.com/jdog453/Senior-Design-Project
+  -Set up the device.
+    -Place the stand in an area with a large amount of space in front of the device.
+    - Ensure that there is a wall outlet near where the device is placed. This will be necessary for the 		     devices to be powered.
+    - The front of the device is the side whose nerf gun turret barrel is facing.
+      - Make sure that the nerf gun turret is loaded with nerf gun turret ammunition.
+      - Make sure that the nerf gun turret is powered on. I.e., ensure that the device has batteries.
+  -Download the source code
+    -The code is available on github at the following link: https://github.com/jdog453/Senior-Design-Project
 -Set up the environment needed to run the code:
 	-There are several versions of this software that can be used:
 		Senior-Design-Project > senior_project_facial_recognition > …
