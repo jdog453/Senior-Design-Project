@@ -191,7 +191,7 @@ Once a face is detected, the location of the person in comparison to the camera 
 
 # PPT Slideshow
 
-[Senior Design Presentation](https://docs.google.com/presentation/d/1mJ0LD__Zt9PbR_O5_9Xch92pF-ySwD1Ky3mfNQfL1IM/edit?usp=sharing)
+[Senior Design Presentation](https://docs.google.com/presentation/d/1L0b7aCXFulL5tHAncLUut8ezNiC4T1P6QVw0lv1esw8/edit?usp=sharing)
 
 # Self-Assessment Essays
 
