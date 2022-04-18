@@ -1,52 +1,52 @@
 # **Table Of Contents**
 
-**[Abstract](#Abstract) 2**
+**[Abstract](#Abstract)**
 
-**[Project Description](#project-description) 2**
+**[Project Description](#project-description)**
 
-**[User Stories](#user-stories) 3**
+**[User Stories](#user-stories)**
 
-**[Design Diagrams](#design-diagrams) 3**
+**[Design Diagrams](#design-diagrams)**
 
-[Level 0](#level-0) 3
+[Level 0](#level-0)
 
-[Level 1](#level-1) 3
+[Level 1](#level-1)
 
-[Level 2](#level-2) 4
+[Level 2](#level-2)
 
-**[Project Tasks and Timeline](#project-tasks-and-timelines) 6**
+**[Project Tasks and Timeline](#project-tasks-and-timelines)**
 
-[Task List](#task-list) 6
+[Task List](#task-list)
 
-[Timeline](#timeline) 7
+[Timeline](#timeline)
 
-[Effort Matrix](#effort-matrix) 8
+[Effort Matrix](#effort-matrix)
 
-**[PPT Slideshow](#ppt-slideshow) 9**
+**[PPT Slideshow](#ppt-slideshow)**
 
-**[Self-Assessment Essays](#self-assessment-essays) 9**
+**[Self-Assessment Essays](#self-assessment-essays)**
 
-Andrew Dygert 9
+Andrew Dygert
 
-Austen Brownfield 10
+Austen Brownfield
 
-Fred Jenks 11
+Fred Jenks
 
-Jared Musser 13
+Jared Musser
 
-**[Professional Biographies](#professional-biographies) 14**
+**[Professional Biographies](#professional-biographies)**
 
-Andrew Dygert 14
+Andrew Dygert
 
-Austen Brownfield 15
+Austen Brownfield
 
-Fred Jenks 16
+Fred Jenks
 
-Jared Musser 17
+Jared Musser
 
-**[Budget](#budget) 18**
+**[Budget](#budget)**
 
-**[Appendix](#appendix) 18**
+**[Appendix](#appendix)**
 
 # Abstract
 
