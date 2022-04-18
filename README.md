@@ -1,8 +1,8 @@
 # **Table Of Contents**
 
-**[Abstract](#_8a5q7d9g9nz8) 2**
+**[Abstract](#Abstract) 2**
 
-**[Project Description](#_ibteshdgfniw) 2**
+**[Project Description](#Project Description) 2**
 
 **[User Stories](#_fg1l6lfwukro) 3**
 
