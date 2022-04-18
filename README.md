@@ -44,6 +44,8 @@ Fred Jenks
 
 Jared Musser
 
+**[Poster](#poster)**
+
 **[Budget](#budget)**
 
 **[Appendix](#appendix)**
@@ -427,6 +429,9 @@ You can get to me by:
 - Game Development Related
 - Web Development
 - Maybe VR Simulation or something similar
+
+# Poster
+https://github.com/jdog453/Senior-Design-Project/blob/main/FredJenksPoster.pdf
 
 # Budget
 
