@@ -28,17 +28,17 @@
 
 [Andrew Dygert](#andrew-dygert) 9
 
-[Austen Brownfield](#_bplthp8lqakq) 10
+[Austen Brownfield](#austen-brownfield) 10
 
-[Fred Jenks](#_18vmihego6z2) 11
+[Fred Jenks](#fred-jenks) 11
 
-[Jared Musser](#_azi8s4nthj18) 13
+[Jared Musser](#jared-musser) 13
 
-**[Professional Biographies](#_7zsine9mfmv1) 14**
+**[Professional Biographies](#professional-biographies) 14**
 
-[Andrew Dygert](#andrew-dygert) 14
+[Andrew Dygert](#andrew-dygert2) 14
 
-[Austen Brownfield](#_9rsxk3x4qt72) 15
+[Austen Brownfield](#austen-brownfield) 15
 
 [Fred Jenks](#_82sqbtqr0ic3) 16
 
