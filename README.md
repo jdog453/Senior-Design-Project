@@ -74,7 +74,7 @@ Different variations of our facial detection and recognition are available for u
 
 # UI Specifications
 
-There is only a video stream when the progam is running, so there is no User Interface 
+The only user interface aspects of our project are the Jupyter notebooks and video stream. The notebook directories are organized in a way that we believe allows the user to best understand the locations of the necessary files. When the facial detection and recognition notebooks are running, the user is able to view the stream on his/her laptop. On the stream, recognized faces will be marked with a rectangle and a label showing either the recognized face's name or "unknown."
 
 # Test plan and results
 
