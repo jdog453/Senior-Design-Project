@@ -8,25 +8,25 @@
 
 **[Design Diagrams](#design-diagrams) 3**
 
-[Level 0](#_el4vef2xp2fy) 3
+[Level 0](#level-0) 3
 
-[Level 1](#_assmp7r476al) 3
+[Level 1](#level-1) 3
 
-[Level 2](#_psatfmafy69k) 4
+[Level 2](#level-2) 4
 
-**[Project Tasks and Timeline](#_ccgnt6w6re0s) 6**
+**[Project Tasks and Timeline](#project-tasks-and-timelines) 6**
 
-[Task List](#_hml5fks6xdzu) 6
+[Task List](#task-list) 6
 
-[Timeline](#_i17lm3t0bad4) 7
+[Timeline](#timeline) 7
 
-[Effort Matrix](#_s7h0xf694x2p) 8
+[Effort Matrix](#effort-matrix) 8
 
-**[PPT Slideshow](#_4rxfwf3mpqrt) 9**
+**[PPT Slideshow](#ppt-slideshow) 9**
 
-**[Self-Assessment Essays](#_l5g13m2ea8yi) 9**
+**[Self-Assessment Essays](#self-assessment-essays) 9**
 
-[Andrew Dygert](#_fv8grnfl32gt) 9
+[Andrew Dygert](#andrew-dygert) 9
 
 [Austen Brownfield](#_bplthp8lqakq) 10
 
@@ -36,7 +36,7 @@
 
 **[Professional Biographies](#_7zsine9mfmv1) 14**
 
-[Andrew Dygert](#_daz2g34lfzxb) 14
+[Andrew Dygert](#andrew-dygert) 14
 
 [Austen Brownfield](#_9rsxk3x4qt72) 15
 
