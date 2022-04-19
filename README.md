@@ -445,11 +445,6 @@ My biggest individual contribution is the control of the turret. It was my job t
 
 I believe the only skill that I did not use was physics, but since the range on the nerf gun turret was far enough to cover any distance, it only needs to worry about rotation to aim. The other skills I mentioned were all used at least a little, with the most used skill being data structures, since the data types were different for the Arduino, I had to learn how they functioned. 
 
-Our group accomplished a lot, having a prototype that was almost as functional as we wanted. I learned a lot about the importance of communication in a group setting, it is very important that everyone knows what their job is, so that what needs to get done get done. 
-
-My effort on the project ended up being a little bit less than the rest if group, because my individual part ended up being a lot simpler than I first imagined. I think both Austen and Jared deserve recognition for their effort, Austen did almost all of the work on the facial recognition and Jared ended up doing a lot of work on the stand for the physical turret.
-
-
 ## Austen Brownfield - Fall
 
 The senior design project my group and I are currently expecting to research/build is a
