@@ -486,7 +486,6 @@ Once a face is detected, the location of the person in comparison to the camera 
         * Andrew:
             * 8 hours working on getting the servos to respond to commands in python
             * 2 hours shopping for items to help attach stuff to the arduino
-    * 
             * Total: 49 hours
         * Fred:
             * 4 hours of individual work making the poster look nicer. 
