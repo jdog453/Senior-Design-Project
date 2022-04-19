@@ -26,6 +26,8 @@
 
 **[PPT Slideshow](#ppt-slideshow)**
 
+[Summary of Hours](#summary-of-hours)
+
 **[Self-Assessment Essays](#self-assessment-essays)**
 
 [Andrew Dygert - Fall](#andrew-dygert---fall)
@@ -424,6 +426,88 @@ Once a face is detected, the location of the person in comparison to the camera 
 # PPT Slideshow
 
 [Senior Design Presentation](https://docs.google.com/presentation/d/1L0b7aCXFulL5tHAncLUut8ezNiC4T1P6QVw0lv1esw8/edit?usp=sharing)
+
+# Summary of Hours
+
+* Fall Semester:
+    * Group work:
+        * Senior Design Course Assignments:
+            * 25 hrs
+        * Misc:
+            * 5 hrs brainstorming ideas and figuring out which devices to use
+        * Total: 30 hrs
+    * Individual:
+        * Austen:
+            * 4 hrs researching devices and examining different libraries
+            * Total (including group work): 34 hours
+        * Andrew:
+            * 1 hr researching how to use python to rotate a servo
+            * Total (including group work): 31 hours
+        * Fred:
+            * 2 hours researching how to modify nerf guns and assemble the turret.
+            * Total (including group work): 32 hrs.
+        * Jared:
+            * 2 hours researching hardware we could use
+            * Total (including group work): 32 hours
+* Spring Semester:
+    * Group work:
+        * Senior Design Course Assignments:
+            * 10 hrs
+        * In-person meetings:
+            * 3.5 hrs at freds 2/15
+            * 5 hrs at freds 2/19
+            * 1 hr slides at library 2/21
+            * 2.5 hrs at freds 2/26
+            * 3.5 hrs poster 3/2
+            * 1 hr at freds 3/3
+            * 1 hr spring break 3/15
+            * 3 hrs at freds 3/22
+            * 1.5 hrs freds 3/23
+            * 5 hrs at jareds 3/25
+            * 2 hrs jareds 4/6
+        * Total:
+            * 39 hrs
+
+        
+
+    * Individual:
+        * Austen:
+            * Per-week (13 weeks):
+                * 4 hrs minimum
+                    * Work included:
+                        * Researching how to implement facial detection and recognition
+                        * Researching how to best train the facial recognition model
+                        * Developing facial detection and recognition
+                        * Fine-tuning code and fixing bugs
+                        * Implementing additional features to improve facial detection and recognition accuracy
+                        * Working with different devices (raspberry pi, desktop computer, laptop)
+            * Total per-week: 52 hrs
+            * Total (including group work): 91 hrs
+        * Andrew:
+            * 8 hours working on getting the servos to respond to commands in python
+            * 2 hours shopping for items to help attach stuff to the arduino
+    * 
+            * Total: 49 hours
+        * Fred:
+            * 4 hours of individual work making the poster look nicer. 
+            * 5 hours learning how to disassemble the nerf gun, how its wires and mechanisms are set up, and how to reassemble it. 
+            * 2 hours trying to figure out how to hijack the internal wiring of the gun to take an electrical signal from the arduino. 
+            * 1 hour researching/shopping online for parts for the turret.
+            * Total: 51 hrs.
+        * Jared:
+            * 3 hours getting equipment and brainstorming the turret
+            * 10 hours of trial and error building the boxes and turret
+            * 1 hour researching how the electronics physically work together
+            * Total: 53 hours
+* Overall Totals:
+    * Austen:
+        * 122 hours
+    * Andrew:
+        * 80 hours
+    * Fred:
+        * 83 hours
+    * Jared:
+        * 85 hours
 
 # Self-Assessment Essays
 
