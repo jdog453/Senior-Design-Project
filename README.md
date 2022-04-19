@@ -461,6 +461,7 @@ develop software that can perform some of the necessary tasks for this project (
 learning to identify faces, control when the nerf gun fires, etc.). However, I believe my group and
 I lack experience with physical hardware and devices, so some aspects of this idea (pulling the
 trigger, creating/monitoring a motion sensor, etc.) may be difficult to implement.
+
 I’ve personally taken specific courses at this university that I think will provide a good
 foundation for the experience/information needed to complete this project. I’ve taken
 MATH1062 (Calculus II), MATH2076 (Linear Algebra), CS4033 (AI Principles and
@@ -470,6 +471,7 @@ will allow me to implement this. I’ve also taken many programming courses such
 EECE3093C (Software Engineering), CS3003 (Programming Languages), CS2021 (Python
 Programming). I think these courses gave me the necessary experience I’ll need to create and
 implement code for this project. I’ve also picked up skills and experience from my coops.
+
 I worked at the tech company London Computer Systems for four semesters. My position
 was that of a quality assurance software tester for one semester. During this time, I discovered
 and reported defects to my team, coordinated with software developers to verify code changes
@@ -480,6 +482,7 @@ code changes to software. I also gained experience working with a team of compet
 developers. I believe my time spent on coop provided me with efficient software development
 skills and practices as well as good testing habits that will allow me and my team to competently
 work on and complete this project.
+
 I’m excited to work on this project for several reasons. The first of which is that I feel
 like this is the best opportunity I’ll have at university to create something that not only am I
 proud of, but something my friends and family can be proud of too. This project could be a neat
@@ -496,6 +499,7 @@ nerf gun depending on the position of whoever is spotted on camera? If so, how w
 and can it be done in an efficient way that won’t take months to complete? Otherwise, let’s adjust
 the parameters of our project so we don’t need to implement the track specifically and can
 instead focus on the bigger picture.
+
 At this point, the only expected result that I wish for this project is that the nerf gun will
 fire when someone has been detected via facial recognition or a motion sensor being tripped. I’m
 not sure of the smaller, more specific results that I wish to see since my group and I haven’t
@@ -511,8 +515,11 @@ good job creating this project
 ## Austen Brownfield - Spring
 
 My individual contribution to this project was the research, development, and implementation of facial detection and recognition. The required skills previously identified to perform these tasks were applied and built upon in order to successfully create this aspect of our project. A significant portion of time was spent researching these topics. Research included what languages, libraries, and references to use. The site PyImageSearch was instrumental in my research as it allowed me to build the base of several versions of detection and recognition. Additional code for other aspects of the project were created in conjunction with detection and recognition such as the rotation and the firing of the nerf gun. The code was written in Python on Jupyter notebooks, and stored in our team’s Github repository. I gained experience with Python libraries such as OpenCV, dlib, and face_recognition, and grew more familiar with the use of Jupyter projects and the Raspberry Pi device. My understanding of facial detection and recognition algorithms and their computational complexities has also increased. I’ve developed greater skills working on a team and with tools such as Github.
+
 I was able to successfully implement facial detection and several versions of facial recognition ranging from poor accuracy and efficient video performance to great accuracy and inefficient video performance. Video performance refers to the frames-per-second of a videostream. There were many obstacles along the way. A significant portion of time was spent researching how these goals could be achieved on a Raspberry Pi only for the device’s usage to be scrapped due to how poor its performance was. The development of an accurate facial recognition model was difficult as the solution was tedious and poorly documented. A “CUDA-compatible” GPU was required to use a more accurate model; however, resources explaining the process of installing the proper tools were not forthcoming and required much research. Only a fraction of our group’s computers met this requirement and the amount of devices that could be used for testing were limited.
+
 I believe my group accomplished the significant goals we created for our project in the Fall. This includes the firing of the nerf gun, the rotation of the device based on the location of one’s face on camera, and the detection and recognition of the face. There were many sub-goals along the way such as the research and acquisition of the parts, the creation of the physical device that holds the nerf gun, the development of the device to physically pull the trigger, the implementation of the software that implements the rotation, etc. I further learned how necessary it is for the work associated with large projects to be divided amongst a team in order to more quickly accomplish goals. A successful aspect of our teamwork was that the team members all felt comfortable with each other and were willing to ask for help and discuss setbacks. An unsuccessful part of our teamwork was that we were initially unaware of the amount of work required for each task, and some team members were given comparatively more work than others to complete. This led to some confusion, frustration, and reorganization further into development.
+
 I think my efforts may have been greater than others on my team. However, I believe this is because the work I was given was more complex and involved than others. I was also very interested and passionate about my work that I didn’t mind spending extra time ensuring that my items were as perfect as possible given our time and resources. My team member Jared Musser spent a large amount of time building the device that held the nerf gun and I think that deserves special recognition given that our team is wholly Computer Science and that the more physical “hardware” problems aren’t usually a part of our work.
 
 
