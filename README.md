@@ -318,21 +318,25 @@ The above image represents the lowest level design of our project. The user will
 
 ![Level 1 Diagram](https://github.com/jdog453/Senior-Design-Project/blob/26e5da36bfb9869cddf6f5705d973006a3990167/Design%20Diagrams/D1.drawio.png)
 
-The user uses a web app that turns on the camera and arms the device. The camera then detects a face through machine learning training. If the person isn&#39;t directly in front of the camera, the angle is calculated and the nerf gun is rotated to the correct position to fire. If the person is identified as unsafe, they are shot by the nerf gun.
+This is our original diagram. The user uses a web app that turns on the camera and arms the device. The camera then detects a face through machine learning training. If the person isn&#39;t directly in front of the camera, the angle is calculated and the nerf gun is rotated to the correct position to fire. If the person is identified as unsafe, they are shot by the nerf gun.
+
+![Level 1 Diagram](https://github.com/jdog453/Senior-Design-Project/blob/main/Design%20Diagrams/UpdatedD1.drawio.png)
+
+This is our updated diagram. We decided to remove the webapp due to time constraints.
 
 ## Level 2
 
-![Level 2 Diagram](https://github.com/jdog453/Senior-Design-Project/blob/main/Design%20Diagrams/Updated%20D2.drawio.png)
+![Level 2 Diagram](https://github.com/jdog453/Senior-Design-Project/blob/main/Design%20Diagrams/D2.drawio.png)
 
-A machine learning model will be trained for facial recognition. The current assumption is that there will be a free, publicly available dataset of faces to use for training. If not, the collection of images of faces to train and test the model with will be more tedious to produce. At this stage of development, we are also unsure of what type of machine learning model will be used for this task.
+The web app will have authentication to make sure that only certain users can access the app and activate the turret. A machine learning model will be trained for facial recognition. The current assumption is that there will be a free, publicly available dataset of faces to use for training. If not, the collection of images of faces to train and test the model with will be more tedious to produce. At this stage of development, we are also unsure of what type of machine learning model will be used for this task.
 
 We plan to use pi cam (raspberry pi) as the camera: this device records video at 1080p 30 fps. Frames will be examined for the presence of a face. It will likely be computationally expensive to check every frame for this, so we will need to test and decide how many frames to ignore before checking a frame for facial detection.
 
 Once a face is detected, the location of the person in comparison to the camera is calculated. This calculation is necessary as (obviously) the nerf gun will likely need to rotate to point at the target. At this stage of development, we plan to use a servo motor to do this. The output (a boolean value) is determined by whether or not the detected individual is unsafe. This value will represent whether or not the nerf gun should fire. An individual is defined as unsafe based on whether or not that individual&#39;s face has been recorded in our system. If he/she is identified as unsafe, the turret will fire at them. If the gun needs to be rotated it will rotate as the gun is firing.
 
-![Level 2 Diagram](https://github.com/jdog453/Senior-Design-Project/blob/f298d9df883c9413ed4df6060233b7f32d26d994/Design%20Diagrams/D2.drawio.png)
+![Level 2 Diagram](https://github.com/jdog453/Senior-Design-Project/blob/f298d9df883c9413ed4df6060233b7f32d26d994/Design%20Diagrams/Updated%20D2.drawio.png)
 
-This is our original diagram, containing the webapp we had originally planned to use to activate the turret. However, we decided to cut it due to time constraints. The web app would have had authentication to make sure that only certain users can access the app and activate the turret.
+This is our updated diagram. We removed the webapp due to time constraints. We also decided to use a webcam hooked up to a laptop instead of the pi cam due to processing power issues with the pi. As for the machine learning model, we have a few models in our codebase depending on what the user desires. We have a model that is only trained for detection to minimize necessary processing power,
 
 
 # Project Tasks and Timeline
