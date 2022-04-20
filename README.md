@@ -364,8 +364,8 @@ This is our updated diagram. We removed the webapp due to time constraints. We a
 20. Document the hardware aspects.
 21. Design/Develop the web app.
 22. Investigate which framework to use for the development of the web app
-23. Investigation of how best to build the database.
-24. Build the database.
+23. Investigation of how best to build the ~~database~~ dataset.
+24. Build the ~~database~~ dataset.
 25. Implement a user login system to activate the turret.
 
 ## Timeline
@@ -393,9 +393,9 @@ This is our updated diagram. We removed the webapp due to time constraints. We a
 | 19 | 11/12/2021 | 4/1/2022 | 10 | Andrew | yes |
 | 20 | 11/6/2021 | 11/11/2021 | 2 | Fred | yes |
 | 21 | 12/6/2021 | 12/13/2021 | 6 | Andrew/Fred | no |
-| 22 | 11/28/2021 | 12/05/2021 | 6 | Fred/Austen | no |
-| 23 | 12/14/2021 | 2/14/2022 | 8 | Jared | no |
-| 24 | 12/14/2021 | 2/14/2022 | 8 | Jared | no |
+| 22 | 11/28/2021 | 12/05/2021 | 6 | Fred/Austen | yes |
+| 23 | 12/14/2021 | 2/14/2022 | 8 | Jared | yes |
+| 24 | 12/14/2021 | 2/14/2022 | 8 | Jared | yes |
 | 25 | 12/6/2021 | 12/13/2021 | 6 | Fred | no |
 
 ## Effort Matrix
