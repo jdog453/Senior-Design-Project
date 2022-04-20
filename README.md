@@ -336,8 +336,7 @@ Once a face is detected, the location of the person in comparison to the camera 
 
 ![Level 2 Diagram](https://github.com/jdog453/Senior-Design-Project/blob/main/Design%20Diagrams/Updated%20D2.drawio.png)
 
-This is our updated diagram. We removed the webapp due to time constraints. We also decided to use a webcam hooked up to a laptop instead of the pi cam due to processing power issues with the pi. As for the machine learning model, we have a few models in our codebase depending on what the user desires. We have a model that is only trained for detection to minimize necessary processing power,
-
+This is our updated diagram. We removed the webapp due to time constraints. We also decided to use a webcam hooked up to a laptop instead of the pi cam due to processing power issues with the pi. Several versions of facial recognition are provided for the user ranging from purely facial detection and no recognition and both facial detection and recognition. The latter contains three variations ranging from a poor accuracy and great video performance to great accuracy and poor video performance. Video performance in this context refers to the the frames per second of the video stream. Two of the variations are very accurate due to the use of dlib's facial detection methods: HOG + Linear SVM face detector and CNN face detector. However, the use of these methods require a lengthy install of many features. information about this process is found in the user manual.
 
 # Project Tasks and Timeline
 
@@ -346,7 +345,7 @@ This is our updated diagram. We removed the webapp due to time constraints. We a
 1. Research the most efficient machine learning model to implement facial recognition.
 2. Investigate the existence of an available dataset of faces to train a machine learning model.
 3. If a neural network is decided as the machine learning model, investigate the most efficient number of layers and neurons to use.
-4. Develop software that identifies safe and hostile users based on camera frames and a database of faces.
+4. Develop software that identifies safe and hostile users based on camera frames and a ~~database~~ dataset of faces.
 5. Develop a program to read the data from the camera
 6. Develop a program to take the data read from the camera and feed it to the facial recognition software.
 7. Research what language would work best for our project.
@@ -355,7 +354,7 @@ This is our updated diagram. We removed the webapp due to time constraints. We a
 10. Design the hardware components of the aiming system.
 11. Implement the calculations for the aiming system
 12. Acquire a nerf gun.
-13. Acquire Raspberry Pi, Pi Cam, and motors.
+13. Acquire ~~Raspberry Pi, Pi Cam, and motors~~ Arduino, web cam, and motors.
 14. Build the turret.
 15. Test the rotation system with the nerf gun mounted.
 16. Test the trigger pull system.
@@ -373,31 +372,31 @@ This is our updated diagram. We removed the webapp due to time constraints. We a
 
 | Task # | Start Date | Completion Date | Milestone | Primary Responsibility | Completed |
 | --- | --- | --- | --- | --- | --- |
-| 1 | 12/11/2021 | 12/17/2021 | 1 | Austen |
-| 2 | 12/18/2021 | 12/24/2021 | 1 | Austen |
-| 3 | 12/25/2021 | 12/31/2021 | 1 | Austen |
-| 4 | 2/14/2022 | 3/1/2022 | 9 | Austen/Andrew |
-| 5 | 11/12/2021 | 12/31/2021 | 4 | Andrew |
-| 6 | 11/12/2021 | 12/31/2021 | 4 | Andrew |
+| 1 | 12/11/2021 | 12/17/2021 | 1 | Austen | yes |
+| 2 | 12/18/2021 | 12/24/2021 | 1 | Austen | yes |
+| 3 | 12/25/2021 | 12/31/2021 | 1 | Austen | yes |
+| 4 | 2/14/2022 | 3/1/2022 | 9 | Austen/Andrew | yes |
+| 5 | 11/12/2021 | 12/31/2021 | 4 | Andrew | yes |
+| 6 | 11/12/2021 | 12/31/2021 | 4 | Andrew | yes |
 | 7 | 10/11/2021 | 11/11/2021 | 4 | Andrew | yes |
-| 8 | 10/12/2021 | 11/6/2021 | 2 | Fred/Jared |
-| 9 | 10/12/2021 | 11/6/2021 | 2 | Fred/Jared |
-| 10 | 10/12/2021 | 11/6/2021 | 2 | Fred/Jared |
-| 11 | 1/31/2022 | 2/14/2022 | 7 | Austen/Andrew |
+| 8 | 10/12/2021 | 11/6/2021 | 2 | Fred/Jared | yes |
+| 9 | 10/12/2021 | 11/6/2021 | 2 | Fred/Jared | yes |
+| 10 | 10/12/2021 | 11/6/2021 | 2 | Fred/Jared | yes |
+| 11 | 1/31/2022 | 2/14/2022 | 7 | Austen/Andrew | yes |
 | 12 | 10/11/2021 | 11/11/2021 | 3 | Jared | yes |
 | 13 | 10/11/2021 | 11/11/2021 | 3 | Jared | yes |
-| 14 | 11/12/2021 | 1/31/2022 | 5 | Fred/Jared |
-| 15 | 2/14/2022 | 2/22/2022 | 7 | All |
-| 16 | 2/14/2022 | 2/22/2022 | 7 | All |
-| 17 | 2/14/2022 | 2/22/2022 | 7 | All |
-| 18 | 2/23/2022 | 3/1/2022 | 9 | All |
-| 19 | 11/12/2021 | 4/1/2022 | 10 | Andrew |
-| 20 | 11/6/2021 | 11/11/2021 | 2 | Fred |
-| 21 | 12/6/2021 | 12/13/2021 | 6 | Andrew/Fred |
-| 22 | 11/28/2021 | 12/05/2021 | 6 | Fred/Austen |
-| 23 | 12/14/2021 | 2/14/2022 | 8 | Jared |
-| 24 | 12/14/2021 | 2/14/2022 | 8 | Jared |
-| 25 | 12/6/2021 | 12/13/2021 | 6 | Fred |
+| 14 | 11/12/2021 | 1/31/2022 | 5 | Fred/Jared | yes |
+| 15 | 2/14/2022 | 2/22/2022 | 7 | All | yes |
+| 16 | 2/14/2022 | 2/22/2022 | 7 | All | yes |
+| 17 | 2/14/2022 | 2/22/2022 | 7 | All | yes |
+| 18 | 2/23/2022 | 3/1/2022 | 9 | All | yes |
+| 19 | 11/12/2021 | 4/1/2022 | 10 | Andrew | yes |
+| 20 | 11/6/2021 | 11/11/2021 | 2 | Fred | yes |
+| 21 | 12/6/2021 | 12/13/2021 | 6 | Andrew/Fred | no |
+| 22 | 11/28/2021 | 12/05/2021 | 6 | Fred/Austen | no |
+| 23 | 12/14/2021 | 2/14/2022 | 8 | Jared | no |
+| 24 | 12/14/2021 | 2/14/2022 | 8 | Jared | no |
+| 25 | 12/6/2021 | 12/13/2021 | 6 | Fred | no |
 
 ## Effort Matrix
 
