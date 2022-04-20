@@ -438,7 +438,7 @@ This is our updated diagram. We removed the webapp due to time constraints. We a
 
 # Final Results
 
-Everythind that we had time to do is finished and fully functional. Below we have a link to a folder showing our results. These videos include two scenarios, one where Jared is identified as safe, and one where Jared is not identified as safe. For each scenario one video is the web cam footage that the turret uses to track and fire, and the other video is the perspective of a spectator.  
+Everything that we had time to do is finished and fully functional. Below we have a link to a folder showing our results. These videos include two scenario: one where Jared is identified as safe, and one where Jared is not identified as safe. For each scenario one video is the web cam footage that the turret uses to track and fire, and the other video is the perspective of a spectator.  
 
 [Project Result Videos](https://drive.google.com/drive/u/0/folders/1oBuupyKOHu9FiShU9h9XUVCafnCdbYtz)
 
