@@ -26,6 +26,8 @@
 
 **[PPT Slideshow](#ppt-slideshow)**
 
+[Final Results](#final-results)
+
 [Summary of Hours](#summary-of-hours)
 
 **[Self-Assessment Essays](#self-assessment-essays)**
@@ -433,6 +435,8 @@ This is our updated diagram. We removed the webapp due to time constraints. We a
 # PPT Slideshow
 
 [Senior Design Presentation](https://docs.google.com/presentation/d/1L0b7aCXFulL5tHAncLUut8ezNiC4T1P6QVw0lv1esw8/edit?usp=sharing)
+
+# Final Results
 
 # Summary of Hours
 
