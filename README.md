@@ -334,7 +334,7 @@ We plan to use pi cam (raspberry pi) as the camera: this device records video at
 
 Once a face is detected, the location of the person in comparison to the camera is calculated. This calculation is necessary as (obviously) the nerf gun will likely need to rotate to point at the target. At this stage of development, we plan to use a servo motor to do this. The output (a boolean value) is determined by whether or not the detected individual is unsafe. This value will represent whether or not the nerf gun should fire. An individual is defined as unsafe based on whether or not that individual&#39;s face has been recorded in our system. If he/she is identified as unsafe, the turret will fire at them. If the gun needs to be rotated it will rotate as the gun is firing.
 
-![Level 2 Diagram](https://github.com/jdog453/Senior-Design-Project/blob/f298d9df883c9413ed4df6060233b7f32d26d994/Design%20Diagrams/Updated%20D2.drawio.png)
+![Level 2 Diagram](https://github.com/jdog453/Senior-Design-Project/blob/main/Design%20Diagrams/Updated%20D2.drawio.png)
 
 This is our updated diagram. We removed the webapp due to time constraints. We also decided to use a webcam hooked up to a laptop instead of the pi cam due to processing power issues with the pi. As for the machine learning model, we have a few models in our codebase depending on what the user desires. We have a model that is only trained for detection to minimize necessary processing power,
 
