@@ -322,13 +322,17 @@ The user uses a web app that turns on the camera and arms the device. The camera
 
 ## Level 2
 
-![Level 2 Diagram](https://github.com/jdog453/Senior-Design-Project/blob/f298d9df883c9413ed4df6060233b7f32d26d994/Design%20Diagrams/D2.drawio.png)
+![Level 2 Diagram](https://github.com/jdog453/Senior-Design-Project/blob/f298d9df883c9413ed4df6060233b7f32d26d994/Design%20Diagrams/Updated D2.drawio.png)
 
-The web app will have authentication to make sure that only certain users can access the app and activate the turret. A machine learning model will be trained for facial recognition. The current assumption is that there will be a free, publicly available dataset of faces to use for training. If not, the collection of images of faces to train and test the model with will be more tedious to produce. At this stage of development, we are also unsure of what type of machine learning model will be used for this task.
+A machine learning model will be trained for facial recognition. The current assumption is that there will be a free, publicly available dataset of faces to use for training. If not, the collection of images of faces to train and test the model with will be more tedious to produce. At this stage of development, we are also unsure of what type of machine learning model will be used for this task.
 
 We plan to use pi cam (raspberry pi) as the camera: this device records video at 1080p 30 fps. Frames will be examined for the presence of a face. It will likely be computationally expensive to check every frame for this, so we will need to test and decide how many frames to ignore before checking a frame for facial detection.
 
 Once a face is detected, the location of the person in comparison to the camera is calculated. This calculation is necessary as (obviously) the nerf gun will likely need to rotate to point at the target. At this stage of development, we plan to use a servo motor to do this. The output (a boolean value) is determined by whether or not the detected individual is unsafe. This value will represent whether or not the nerf gun should fire. An individual is defined as unsafe based on whether or not that individual&#39;s face has been recorded in our system. If he/she is identified as unsafe, the turret will fire at them. If the gun needs to be rotated it will rotate as the gun is firing.
+
+![Level 2 Diagram](https://github.com/jdog453/Senior-Design-Project/blob/f298d9df883c9413ed4df6060233b7f32d26d994/Design%20Diagrams/D2.drawio.png)
+
+This is our original diagram, containing the webapp we had originally planned to use to activate the turret. However, we decided to cut it due to time constraints. The web app would have had authentication to make sure that only certain users can access the app and activate the turret.
 
 
 # Project Tasks and Timeline
